@@ -154,3 +154,4 @@ document.querySelector('#cards').innerHTML =
     createCard("18/12", "domingo",
         createGame("", "12:00", "")
     )
+
